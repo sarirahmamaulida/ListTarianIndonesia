@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListTarianIndonesia</string>
+    <string name="dance_name">Nama Tari</string>
+    <string name="dance_detail">Detail</string>
+</resources>
